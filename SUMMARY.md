@@ -3,3 +3,4 @@
 * [🍫 Choco and Pancake $CHOCOPAN](README.md)
 * [🎫 Our Mission](our-mission.md)
 * [🗺 Tokenomics](tokenomics.md)
+* [🛣 Roadmap](roadmap.md)
