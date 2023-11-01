@@ -1,3 +1,5 @@
 # Table of contents
 
-* [Page](README.md)
+* [🍫 Choco and Pancake](README.md)
+* [🎫 Our Mission](our-mission.md)
+* [🗺 Tokenomics](tokenomics.md)
